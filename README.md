@@ -42,11 +42,11 @@
 
 ## 🚀 Featured Projects
 
-| 🛡️ **AML Detection Rule Engine** | 📦 **Fulfillment Risk Analytics** |
-|----------------------------------|----------------------------------|
+| **🛡️ AML Detection Rule Engine** | **📦 Fulfillment Risk Analytics** |
+|---|---|
 | Rules-based system to detect suspicious financial activity using behavioral patterns and risk logic. | Analysis of transaction and fulfillment data to identify operational and financial risk patterns. |
-| • Built rule-based detection logic for high-risk activity <br> • Focused on explainability and interpretability <br> • Simulated real-world AML scenarios | • Identified anomalies in transaction-level data <br> • Built analytical workflows in Python <br> • Generated insights for decision-making |
-| 🔗 [View Project](https://github.com/duero2000/aml-rule-engine) | 🔗 [View Project](https://github.com/duero2000/novasend-fulfillment-risk) |
+| • Built rule-based detection logic for high-risk activity<br>• Focused on explainability and interpretability<br>• Simulated real-world AML scenarios | • Identified anomalies in transaction-level data<br>• Built analytical workflows in Python<br>• Generated insights for decision-making |
+| [🔗 View Project](#) &nbsp;&nbsp; [🌐 View Live Application](https://aml-rule-engine.streamlit.app/) | [🔗 View Project](#) &nbsp;&nbsp; [🌐 View Live Application](https://novasend-fulfillment-risk.streamlit.app/) |
 
 ### 🧠 Problem Solving Philosophy
 
