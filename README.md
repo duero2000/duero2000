@@ -1,9 +1,10 @@
 # 💫 About Me:
+
+[![Download Resume](https://img.shields.io/badge/📄%20Resume-Download%20Now-brightgreen?style=for-the-badge)](https://github.com/duero2000/duero2000/raw/main/Durelle_Maynard_Resume.pdf)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/durelle-maynard)
+
 🔭 I’m currently working on<br>Finishing my Master of Science in Business Analytics at Wake Forest University (May 2026), where I’ve worked on real-world, end to end analytics projects. My experience spans problem framing, data engineering, and building decision ready applications. Most recently, I worked on an account takeover fraud scoring project with USAA, focused on turning complex data into tools analysts can actually use.<br><br>👯 I’m looking to collaborate on<br>Projects across data science, AI and machine learning, data engineering, and analytics. I’m especially interested in work that turns raw data into meaningful, real world impact.<br><br>🤝 I’m looking for help with<br>Scaling data pipelines and deploying production ready analytics applications using tools like Snowflake, dbt, and Airflow.<br><br>🌱 I’m currently learning<br>How to bridge the gap between models and production, with a focus on machine learning engineering, data pipelines, and scalable systems.<br><br>💬 Ask me about<br>Data analytics, building applications that drive decisions, real world project experience, or taking a problem from raw data to a usable solution. (Also always open to talking soccer.)<br><br>⚡ Fun fact<br>I've represented Dominica as an international soccer player and have competed in Friendlies and World Cup qualifiers at both the youth and senior level. 
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/durelle-maynard) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:durellemaynards@gmail.com) 
 
 
 # 💻 Tech Stack:
@@ -42,11 +43,11 @@
 
 ## 🚀 Featured Projects
 
-| **🛡️ AML Detection Rule Engine** | **📦 Fulfillment Risk Analytics** |
-|---|---|
-| Rules-based system to detect suspicious financial activity using behavioral patterns and risk logic. | Analysis of transaction and fulfillment data to identify operational and financial risk patterns. |
-| • Built rule-based detection logic for high-risk activity<br>• Focused on explainability and interpretability<br>• Simulated real-world AML scenarios | • Identified anomalies in transaction-level data<br>• Built analytical workflows in Python<br>• Generated insights for decision-making |
-| [🔗 View Project](#) &nbsp;&nbsp; [🌐 View Live Application](https://aml-rule-engine.streamlit.app/) | [🔗 View Project](#) &nbsp;&nbsp; [🌐 View Live Application](https://novasend-fulfillment-risk.streamlit.app/) |
+| 🧠 ML Modeling Agent | 🛡️ AML Rule Engine | 📦 Fulfillment Risk |
+|---|---|---|
+| AI-powered app that guides users through a structured machine learning workflow across multiple model families. | Rules-based suspicious activity detection system using explainable risk logic. | Predictive analytics dashboard for delivery delays and operational risk. |
+| React, Claude API, Vite, Product Design | Python, Streamlit, Fraud Logic | Python, ML, Streamlit |
+| [🔗 Repo](https://github.com/duero2000/ML-modeling-agent) | [🔗 Repo](https://github.com/duero2000/aml-rule-engine) | [🔗 Repo](https://github.com/duero2000/novasend-fulfillment-risk) |
 
 ### 🧠 Problem Solving Philosophy
 
